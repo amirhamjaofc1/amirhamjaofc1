@@ -35,10 +35,10 @@ I'm a third-year Computer Science and Engineering student from Bangladesh with a
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amirhamjaofc1&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhamjaofc1&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=amirhamjaofc1&theme=tokyonight&hide_border=true" alt="streak" />
@@ -47,9 +47,10 @@ I'm a third-year Computer Science and Engineering student from Bangladesh with a
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[your-id]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/[your-id]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amir-hamja01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amirhamja.ofc1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://[your-portfolio-link]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
